@@ -1,0 +1,45 @@
+body { 
+    background-color: #FFDAB9;
+    font-family:"arial"
+}
+
+p {
+    font-size: 14px;
+    color: "black";
+    font-family: Arial;
+    font-style: center;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+    /* text-shadow: 3px 3px 1px black; */
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+.avatar {
+    width: 300px;
+    border-radius: 70%;
+    float: left;
+}
+
+.bio {
+    height: 90%;
+    text-align: center;
+    background: white;
+    width:50%;
+    padding: 30px;
+    border: 1px solid gray;
+}
+
+.center {
+    display: block;
+    margin:0 auto;
+}
+
+.content {
+    margin: 70px;
+}
