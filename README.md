@@ -1,3 +1,3 @@
 # jsladies-br-rj-caelum
 
-## Tamires Rodrigues Mendes :smiley_cat:
+## Tamires Rodrigues :smiley_cat:
