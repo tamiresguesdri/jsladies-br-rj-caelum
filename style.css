@@ -1,6 +1,8 @@
 body { 
     background-color: #FFDAB9;
-    font-family:"arial"
+    font-family: "Arial";
+    line-height: 1.5;
+    text-align: center;
 }
 
 p {
@@ -10,7 +12,6 @@ p {
     font-style: center;
     line-height: 2;
     letter-spacing: 1px;
-    text-align: center;
     /* text-shadow: 3px 3px 1px black; */
 }
 
@@ -21,7 +22,7 @@ img {
 }
 
 .avatar {
-    width: 300px;
+    width: 200px;
     border-radius: 70%;
     float: left;
 }
@@ -44,3 +45,14 @@ img {
     margin: 70px;
 }
 
+div li {
+    display: inline-flex;    
+}
+
+ol, ul {
+    list-style: none;
+  }
+
+h1 h2 h3 {
+    text-align: center;
+}
